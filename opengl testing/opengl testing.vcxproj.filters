@@ -26,5 +26,11 @@
     <None Include="fragmentshader.glsl">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="shadow_vs.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow_fs.glsl">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
